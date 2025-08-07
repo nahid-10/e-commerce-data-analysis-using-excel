@@ -57,4 +57,3 @@ This project presents an interactive **E-commerce Sales Analysis Dashboard** cre
 
 This dashboard is a part of a data analysis project aimed at helping decision-makers in e-commerce businesses understand key performance metrics at a glance and make data-driven decisions.
 
-⭐ *If you found this project helpful, feel free to star the repo!*
